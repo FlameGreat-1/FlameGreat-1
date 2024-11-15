@@ -13,12 +13,12 @@
 </p>
 
 <details>
-  <summary>🧑 More about me</summary>
+  <summary>ABOUT ME</summary>
 
-  - 👨 About Me **[I am a passionate and experienced Software Developer with a strong background in building efficient and scalable systems and software architecture. With over 3 years of experience in developing scalable and robust software solutions, I have honed my skills in various programming languages and technologies. My expertise lies in designing and implementing efficient systems that can handle high-traffic loads while maintaining optimal performance. Also in creating innovative, data-driven solutions for process optimization, automation, and system reliability across industries, including chemical engineering.]**
+  - 👨 About Me **[I am a passionate and experienced Software Developer with a strong background in building efficient and scalable systems and software architecture. With over 4+ years of experience in developing scalable and robust software solutions, I have honed my skills in various programming languages and technologies. My expertise lies in designing and implementing efficient systems that can handle high-traffic loads while maintaining optimal performance. Also in creating innovative, data-driven solutions for process optimization, automation, and system reliability across industries, including chemical engineering.]**
   - 🔭 I'm currently working on **[Decentralized Voting System]**
-  - 🌱 I'm currently learning **[Solidity, Rust & AWS]**
-  - 👯 I'm looking to collaborate on **Open Source Projects**
+  - 🌱 I'm currently learning **[Solidity, Rust & Smart Contract]**
+  - 👯 I'm looking to collaborate on **[Innovative-driven Solution of any forward thinking organizations]**
   - 📫 Reach me at: **eugochukwu77@gmail.com**
   - 💬 Ask me about **[Software development & Architecture, Blockchain, Forex Trading]**
   - ⚡ Fun fact: **[Team Work, Leadership, Innovation]**
