@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="(https://avatars.githubusercontent.com/u/180309257?v=4)" alt="IZIOGO EMMANUEL UGOCHUKWU" width="100%">
+  <img src="https://avatars.githubusercontent.com/u/180309257?v=4" alt="IZIOGO EMMANUEL UGOCHUKWU" width="100%">
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+[Your+Name];Full-Stack+Developer;Open+Source+Enthusiast&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+[Flame Great];Full-Stack+Developer;Software+Architecture; Chemical+Engineer;Open+Source+Enthusiast&center=true&size=30">
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers">
-  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=social" alt="stars">
+  <img src="https://komarev.com/ghpvc/?username=FlameGreat-1&label=Profile%20views&color=0e75b6&style=flat" alt="FlameGreat-1" />
+  <img src="https://img.shields.io/github/followers/FlameGreat-1?label=Followers&style=social" alt="followers">
+  <img src="https://img.shields.io/github/stars/FlameGreat-1?label=Stars&style=social" alt="stars">
 </p>
 
 <details>
