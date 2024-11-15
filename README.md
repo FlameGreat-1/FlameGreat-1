@@ -14,14 +14,14 @@
 
 <h2>ABOUT ME</h2>
 
-- 👨 About Me **[I am a passionate and experienced Software Developer with a strong background in building efficient and scalable systems and software architecture. With over 4+ years of experience in developing scalable and robust software solutions, I have honed my skills in various programming languages and technologies. My expertise lies in designing and implementing efficient systems that can handle high-traffic loads while maintaining optimal performance. Also in creating innovative, data-driven solutions for process optimization, automation, and system reliability across industries, including chemical engineering.]**
-- 🔭 I'm currently working on **[Decentralized Voting System]**
-- 🌱 I'm currently learning **[Solidity, Rust & Smart Contract]**
-- 👯 I'm looking to contribute on **[Projects that drive innovation and enhance accessibility of any forward thinking organizations]**
-- 📫 Reach me at: **eugochukwu77@gmail.com**
-- 💬 Ask me about **[Software development & Architecture, Blockchain, Forex Trading]**
-- ⚡ Fun fact: **[Team Work, Leadership, Innovation]**
-- 📄 Check out my [Resume](https://github.com/FlameGreat-1/FlameGreat-1/raw/main/MY_RESUME.pdf) and [CV](https://github.com/FlameGreat-1/FlameGreat-1/raw/main/MY_CV.pdf)
+- 👨 **About Me** [I am a passionate and experienced Software Developer with a strong background in building efficient and scalable systems and software architecture. With over 4+ years of experience in developing scalable and robust software solutions, I have honed my skills in various programming languages and technologies. My expertise lies in designing and implementing efficient systems that can handle high-traffic loads while maintaining optimal performance. Also in creating innovative, data-driven solutions for process optimization, automation, and system reliability across industries, including chemical engineering.]
+- 🔭 **I'm currently working on** [Decentralized Voting System]
+- 🌱 **I'm currently learning** [Solidity, Rust & Smart Contract]
+- 👯 **I'm looking to contribute on** [Projects that drive innovation and enhance accessibility of any forward thinking organizations]
+- 📫 **Reach me at:** eugochukwu77@gmail.com
+- 💬 **Ask me about** [Software development & Architecture, Blockchain, Forex Trading]
+- ⚡ **Fun fact:** [Team Work, Leadership, Innovation]
+- 📄 **Check out my** [Resume](https://github.com/FlameGreat-1/FlameGreat-1/raw/main/MY_RESUME.pdf) and [CV](https://github.com/FlameGreat-1/FlameGreat-1/raw/main/MY_CV.pdf)
 
 <h2>🛠️ Skills and Tools</h2>
 <h3>DevOps</h3>
