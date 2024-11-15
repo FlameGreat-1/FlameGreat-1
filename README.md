@@ -22,21 +22,43 @@
   - 📫 Reach me at: **eugochukwu77@gmail.com**
   - 💬 Ask me about **[Software development & Architecture, Blockchain, Forex Trading]**
   - ⚡ Fun fact: **[Team Work, Leadership, Innovation]**
+  - 📄 Check out my [Resume](link-to-your-resume.pdf) and [CV](link-to-your-cv.pdf)
 </details>
 
 <details>
-  <summary>🛠️ Languages and Tools</summary>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" title="Hugo" alt="Hugo" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
-  </div>
+  <summary>🛠️ Skills and Tools</summary>
+  <h3>DevOps</h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  </p>
+  
+  <h3>Back-end</h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="REST API" width="40" height="40"/>
+  </p>
+  
+  <h3>Front-end</h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" alt="Hugo" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
+  </p>
+  
+  <h3>Programming</h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+  </p>
 </details>
 
 <details>
@@ -49,16 +71,21 @@
 
 <details>
   <summary>📈 Activity Graph</summary>
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FlameGreat-1&theme=github-dark&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=FlameGreat-1&theme=github-dark&hide_border=true" />
 </details>
 
 <h2 align="center">👨‍💻 Top Repositories</h2>
 
 <div align="center">
-  <a href="https://github.com/FlameGreat-1/Effect-of-Feed">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FlameGreat-1&repo=Effect-of-Feed&theme=radical" />
+  <a href="https://github.com/FlameGreat-1/Loan-Fraud-Detection-System/tree/master">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FlameGreat-1&repo=Loan-Fraud-Detection-System&theme=radical" />
   </a>
-  <!-- Add another repository here if you have one -->
+  <a href="https://github.com/FlameGreat-1/Feed-composition-variation-in-optimum-sequencing-of-distillation-column/tree/master">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FlameGreat-1&repo=Feed-composition-variation-in-optimum-sequencing-of-distillation-column&theme=radical" />
+  </a>
+  <a href="https://github.com/FlameGreat-1/Hospital-Web-Application/tree/master">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FlameGreat-1&repo=Hospital-Web-Application&theme=radical" />
+  </a>
 </div>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
@@ -86,13 +113,15 @@
 
 <h2 align="center">🤝 Connect with Me</h2>
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="https://linkedin.com/in/emmanuel-ugochukwu-iziogo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
+  <a href="https://facebook.com/flame.great">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://twitter.com/Flame_Great1">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <!-- Add more social media badges as needed -->
 </div>
 
 <h2 align="center">💻 Check Out My Repos ⬇️</h2>
