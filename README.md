@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/180309257?v=4" alt="IZIOGO EMMANUEL UGOCHUKWU" width="100%">
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+IZIOGO+EMMANUEL+UGOCHUKWU;Full-Stack+Developer;Software+Architect;Chemical+Engineer;Open+Source+Enthusiast&center=true&size=30">
 </h1>
