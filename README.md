@@ -17,7 +17,7 @@
 - 📫 **Reach me at:** eugochukwu77@gmail.com
 - 💬 **Ask me about** [Software development, AI Integration, Forex Trading]
 - ⚡ **Fun fact:** [Team Work, Leadership, Innovation]
-- 📄 **Check out my** [Resume](https://github.com/FlameGreat-1/FlameGreat-1/raw/main/MY_RESUME.pdf) and [CV](https://github.com/FlameGreat-1/FlameGreat-1/raw/main/MY_CV.pdf)
+- 📄 **Check out my** [CV](https://github.com/FlameGreat-1/FlameGreat-1/raw/main/Emmanuel_CV.pdf)
 
 <h2>🛠️ Skills and Tools</h2>
 <h3>DevOps</h3>
