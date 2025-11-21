@@ -14,7 +14,7 @@
 - 🔭 **I'm currently working on** [Exoper.com]
 - 🌱 **I'm currently learning** [Solidity & Smart Contract]
 - 👯 **I'm looking to contribute on** [Projects that drive innovation and enhance accessibility of any forward thinking organizations]
-- 📫 **Reach me at:** eugochukwu77@gmail.com
+- 📫 **Reach me at:** softverse.com@gmail.com
 - 💬 **Ask me about** [Software development, AI Integration, Forex Trading]
 - ⚡ **Fun fact:** [Team Work, Leadership, Innovation]
 - 📄 **Check out my** [CV](https://github.com/FlameGreat-1/FlameGreat-1/raw/main/Emmanuel_CV.pdf)
